@@ -7,6 +7,8 @@
       <e p="hw7" t="IncludeRecursive">
         <e p="Address.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Ems.cs" t="Include" />
+        <e p="FedEx.cs" t="Include" />
         <e p="hw7.csproj" t="IncludeRecursive" />
         <e p="IShippingStrategy.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
@@ -17,6 +19,7 @@
         </e>
         <e p="ShippingCostCalculator.cs" t="Include" />
         <e p="ShippingOptions.cs" t="Include" />
+        <e p="Ups.cs" t="Include" />
       </e>
       <e p="hw7.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

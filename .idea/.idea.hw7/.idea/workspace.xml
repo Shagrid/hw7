@@ -12,6 +12,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/hw7/ShippingCostCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hw7/Ups.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hw7/Ems.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hw7/FedEx.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/hw7/Order.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/hw7/ShippingOptions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/hw7/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,6 +27,9 @@
         <option value="$PROJECT_DIR$/hw7/IShippingStrategy.cs" />
         <option value="$PROJECT_DIR$/hw7/Address.cs" />
         <option value="$PROJECT_DIR$/hw7/ShippingOptions.cs" />
+        <option value="$PROJECT_DIR$/hw7/Ems.cs" />
+        <option value="$PROJECT_DIR$/hw7/Ups.cs" />
+        <option value="$PROJECT_DIR$/hw7/FedEx.cs" />
         <option value="$PROJECT_DIR$/hw7/Order.cs" />
         <option value="$PROJECT_DIR$/hw7/ShippingCostCalculator.cs" />
       </list>
@@ -73,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589446303944</updated>
-      <workItem from="1589446310425" duration="549000" />
+      <workItem from="1589446310425" duration="2550000" />
     </task>
     <servers />
   </component>
