@@ -1,0 +1,2 @@
+C:\Users\shagr\Documents\GitHub\hw7\hw7\obj\Debug\hw7.csprojAssemblyReference.cache
+C:\Users\shagr\Documents\GitHub\hw7\hw7\obj\Debug\hw7.csproj.CoreCompileInputs.cache

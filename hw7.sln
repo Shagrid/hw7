@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw7", "hw7\hw7.csproj", "{FC31A957-2A92-4979-A624-E1EC554F0886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC31A957-2A92-4979-A624-E1EC554F0886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC31A957-2A92-4979-A624-E1EC554F0886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC31A957-2A92-4979-A624-E1EC554F0886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC31A957-2A92-4979-A624-E1EC554F0886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
