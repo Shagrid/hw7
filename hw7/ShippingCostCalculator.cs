@@ -2,40 +2,14 @@
 
 namespace hw7
 {
-    public class ShippingCostCalculator
+    public class ShippingCostCalculator 
     {
-        public double ShippingCostCalculator(Order order)
+        public double Calculate(Order order, IShippingStrategy strategy)
         {
-            switch (order.ShippingMethod)
-            {
-                case ShippingOptions.FedEx:
-                    return CalculateForFedEx(order);
+            return strategy.Calculate(order);
 
-                case ShippingOptions.UPS:
-                    return CalculateForUPS(order);
-
-                case ShippingOptions.EMS:
-                    return CalculateForEMS(order);
-
-                default:
-                    throw new Exception("Неизвестный сервис");
-            }
         }
-
-        double CalculateForEMS(Order order)
-        {
-            return 3;
-        }
-
-        double CalculateForUPS(Order order)
-        {
-            return 4;
-        }
-
-        double CalculateForFedEx(Order order)
-        {
-            return 5;
-        }
+        
     }
 
 }
